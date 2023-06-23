@@ -6,6 +6,8 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\Users\benny\Desktop\quartzUI</_PublishTargetUrl>
+    <_PublishTargetUrl>F:\IIS\job</_PublishTargetUrl>
+    <History>True|2023-06-21T08:11:23.6850002Z;False|2023-06-21T16:09:16.3618449+08:00;True|2023-05-04T16:58:28.2510896+08:00;True|2023-05-04T16:38:33.0507221+08:00;True|2023-05-04T16:28:56.3131730+08:00;False|2023-05-04T16:28:30.3279680+08:00;True|2023-05-04T16:24:48.0189229+08:00;True|2023-05-04T16:21:04.0661562+08:00;True|2023-05-04T16:16:13.2694680+08:00;False|2023-05-04T16:15:38.8116997+08:00;True|2023-05-04T16:07:23.1513694+08:00;True|2023-05-04T16:06:50.5727899+08:00;True|2023-05-04T16:03:58.6014453+08:00;True|2023-05-04T16:00:44.4502419+08:00;</History>
+    <LastFailureDetails />
   </PropertyGroup>
 </Project>
