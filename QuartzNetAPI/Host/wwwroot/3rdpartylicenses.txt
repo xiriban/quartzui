@@ -165,6 +165,10 @@ ng-zorro-antd/message
 
 ng-zorro-antd/modal
 
+ng-zorro-antd/radio
+
+undefined
+
 ng-zorro-antd/notification
 
 ng-zorro-antd/pagination
@@ -173,8 +177,6 @@ ng-zorro-antd/popconfirm
 
 ng-zorro-antd/popover
 
-ng-zorro-antd/radio
-
 ng-zorro-antd/select
 
 ng-zorro-antd/spin
@@ -182,8 +184,6 @@ ng-zorro-antd/spin
 ng-zorro-antd/table
 
 ng-zorro-antd/tabs
-
-undefined
 
 ng-zorro-antd/tag
 

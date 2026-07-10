@@ -113,7 +113,7 @@ export class LayoutComponent implements OnInit {
   }
 
   clickGitHub() {
-    window.open("https://github.com/zhaopeiym/quartzui");
+    //window.open("https://github.com/zhaopeiym/quartzui");
   }
 
   // 切换语言
